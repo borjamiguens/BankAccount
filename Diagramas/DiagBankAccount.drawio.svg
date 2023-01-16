@@ -1,4 +1,4 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="261px" height="241px" viewBox="-0.5 -0.5 261 241" content="&lt;mxfile&gt;&lt;diagram id=&quot;0gHE7vCrmiI4AOzlY8Nq&quot; name=&quot;Page-1&quot;&gt;1VXBjpswEP0apN1DpGCyyfYYkt3upZeu1J4dGMCqwdQZAunXdxwPAbJBqir10AvYb9545tn4EUS7svtsZV18MSnoQCzTLoj2gRCrzTM9HXD2wCZaeSC3KvVQOADv6hcwuGS0USkcJ0Q0RqOqp2BiqgoSnGDSWtNOaZnR06q1zOED8J5I/RH9rlIsPPosNgP+Biov+srh+pOPlLIns5JjIVPTjqDoJYh21hj0o7LbgXZ71++Lz3udiV4bs1DhnyQIn3CSumFtgVhrSo1r1x2eWfL6Z+Naiktpc1UF0Zaiy7qjJ4EXYQ5foKl9bDWKIXS4kFrlnJdQb2CHNWmU8/tS+dADsax+bJPENKSFY6TkcMsnrL7FCuva7z+cvlI4X/Sv5GrIcKT3du0FBQ5SyyoBz9qb5kAVep32tolmnKncLsERv0q8m06ym/9mKwLhuCnU5qjwwQt59Pxvhj7GO1viElqFRWplO59xT/G/E5ADxv5AHx5nzmTUjZj0IU5gUZGJbP1V2F8uS8wXY+/rx4ZYmb5YQqboqkZxZipkCwwFz19lqbQzzzfQJ3CruoPGUjvStbYrCN2sM4RXvyGfBlMC2jNROOFpyRbFHh0+8bwdHE+sGStGbidWDEp22fy69mBENGAv6qeD511iox9H9PIb&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="261px" height="241px" viewBox="-0.5 -0.5 261 241" content="&lt;mxfile&gt;&lt;diagram id=&quot;0gHE7vCrmiI4AOzlY8Nq&quot; name=&quot;Page-1&quot;&gt;1VVNj5swEP01SLuHSMFkk+0xJLvdSy9dqT07MIBVg6kzBNJf33E8BMiHtFqph16I/eaNZ54/XoJoU3ZfrayLbyYFHYh52gXRNhBisXqmrwOOHlhFCw/kVqUeCgfgXf0BBueMNiqF/YSIxmhU9RRMTFVBghNMWmvaKS0zelq1ljlcAe+J1NfoT5Vi4dFnsRrwN1B50VcOl198pJQ9mZXsC5madgRFL0G0scagH5XdBrTbu35ffN7rnei5MQsVfiRB+ISD1A1rC8RSU2pcu+7wyJKXvxvXUlxKm6sqiNYUndcdfQk8CXP4DE3tY4tRDKHDmdQq57yEegM7rEmjnH9PlXc9EMvq1zpJTENaOEZKdpd8wupLrLCu/f7i9JXC+0U/JVdDhiO9l2vPKLCTWlYJeNbWNDuq0Ou0l00040zldgn2+F3izXSS3fw3WxEIx02hNnuFD17Io+f/MHQZb2yJS2gVFqmV7f2MW4r/nYCrg8oBY3/CD4+fOyQxaVYcwKIip1n797I9vaiYX8/WNxkbYmX65BuZovccxZmpkH0yFDx/laXSzmHfQB/ArepuA5bakc61XUHo7tpHeDYlMnMwJaA9EoUTnubsY2zk4RPP28EWxZKxYmSJYsGgZCvOz2sPbkUDNqx+OhjjKTb6d4le/gI=&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
     <g>
         <rect x="0" y="0" width="260" height="240" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
@@ -28,7 +28,10 @@
                                     + withdraw(Double): Void
                                 </p>
                                 <p style="margin: 0px ; margin-left: 4px">
-                                    + getBalance(): Double
+                                    +
+                                    <u>
+                                        getBalance(): Double
+                                    </u>
                                 </p>
                             </div>
                         </div>
