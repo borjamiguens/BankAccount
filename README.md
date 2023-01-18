@@ -3,4 +3,4 @@
 
 
 
-![Alt](.\Diagramas\DiagBankAccount.drawio.svg)
+![Alt](./Diagramas/DiagBankAccount.drawio.svg)
