@@ -2,5 +2,4 @@
 
 
 
-
 ![Alt](./Diagramas/DiagBankAccount.drawio.svg)
