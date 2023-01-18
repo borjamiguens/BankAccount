@@ -1,35 +1,47 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="261px" height="241px" viewBox="-0.5 -0.5 261 241" content="&lt;mxfile&gt;&lt;diagram id=&quot;0gHE7vCrmiI4AOzlY8Nq&quot; name=&quot;Page-1&quot;&gt;1VVNb6MwEP01SO0hUjBp0j2GpN1e9rKVds8OTMCqwdQZAtlfv2M8BEgTqaq0h70Q+80bzzx/vATRpmi/W1nlP0wKOhDztA2ibSDEYvVIXwecPLCKFh7IrEo9FA7Aq/oDDM4ZrVUKhwkRjdGoqimYmLKEBCeYtNY0U9re6GnVSmbwAXhNpP6I/lYp5h59FKsBfwGV5X3lcPnNRwrZk1nJIZepaUZQ9BREG2sM+lHRbkC7vev3xec934ieG7NQ4mcShE84Sl2ztkAsNaXGlesOTyx5+V67luJC2kyVQbSm6Lxq6UtgJ8zhMzSVjy1GMYQWZ1KrjPMS6g3ssCaNMv7tKu96IJbl2zpJTE1aOEZKdpd8wqpLLLeu/f7i9JXC20W/JFfDHkd6L9eeUWAntSwT8KytqXdUoddpL5uox5nK7RIc8KfEq+kku/5vtiIQjptCZQ4K77yQe8//ZegyXtkSl9AozFMrm9sZ1xT/GwEXR+QbzABjf8J39187JDFpVhzBoiKnWfv3su1eVMyvZ+ubjA2x9rrzjb2i9xzFe1Mi+2QoeP4sC6Wdw76APoJb1d0GLLQjnWu7gtDetI/wbEpk5mAKQHsiCic8zNnH2MjDB543gy2KJWP5yBLFgkHJVpyd1x7cigZsWP10MMYuNvp3iZ7+Ag==&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="221px" height="181px" viewBox="-0.5 -0.5 221 181" content="&lt;mxfile&gt;&lt;diagram id=&quot;JYyDI0-oxmYAVztsLLXp&quot; name=&quot;Page-1&quot;&gt;zVbLkpswEPwaqnYPrjLgws7R2PvIIZfsIWcZBlCtQEQMBufrM0LCgNdsfFlXLhh6ZqTu0aPt+Lu8fVGszH7IGITjLePW8feO563WG3pq4GSAtb8yQKp4bCB3AN74H7Dg0qI1j6GaJKKUAnk5BSNZFBDhBGNKyWaalkgxnbVkKXwA3iImPqK/eIyZQTfeesBfgadZP7MbfDORnPXJVkmVsVg2I8h/cvydkhLNW97uQOje9X0xdc8z0TMxBQXeUhCYgiMTtdXmeIGg0rDU7PBkJQe/a00pzJlKeeH4W4ouy5aeBHbCNL5AWZrYahRDaHHBBE9tXUTcQA1j0ltqf7uZeQ+ErHjfRpGsSYuNkRJ+mU9YeYn9B+x74KCuEP46EQISHKm4pLmgwIEJVkRgsmJZH2iGWbL1uJJr7VDhT4ZXy0lFfYuyTGlp/bnuObrzXf2KVjiezo2hlBXHByPk0eQfJR2QKy3RBQ3HLFasma+411oaPilgaBb04XFmTe7E5mLDGHoV4PfRrvm0azftnTtyT8fc1Xx//8HbmzD2jqCQk5lszaWy766d0F4xe8M0lJSViM4aEk5Xth8mskBrha5nv59ZzoU20VcQR9Cj6sOFudBJ57n1hNDOOoR79h3ya5A5oDpRSl8QWKuyXu33JtwMzne2s2zsehsLMuu26XnswZDoxXpS/zl4Xxcb/YHwn/4C&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
     <g>
-        <rect x="0" y="0" width="260" height="240" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="0" y="0" width="220" height="180" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 262px; height: 240px; padding-top: 0px; margin-left: 0px;">
-                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 260px; height: 240px; overflow: hidden;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 222px; height: 180px; padding-top: 0px; margin-left: 0px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 220px; height: 180px; overflow: hidden;">
                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: nowrap;">
                                 <p style="margin: 0px ; margin-top: 4px ; text-align: center">
-                                    <b>
+                                    <i>
                                         BankAccount
-                                    </b>
+                                    </i>
                                 </p>
-                                <hr size="1"/>
+                                <p style="margin: 0px ; margin-top: 4px ; text-align: center">
+                                    <i>
+                                        <br/>
+                                    </i>
+                                </p>
                                 <p style="margin: 0px ; margin-left: 4px">
-                                    - balance: Double
+                                    - balance: double
                                     <br/>
                                     <u>
-                                        - interestRate: Double
+                                        - interestRate: double
                                     </u>
                                 </p>
                                 <hr size="1"/>
                                 <p style="margin: 0px ; margin-left: 4px">
-                                    + deposit(Double): Void
+                                    + deposit(double): void
                                     <br/>
-                                    + withdraw(Double): Void
+                                    + withdraw(double): void
+                                </p>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    + getBalance(): double
                                 </p>
                                 <p style="margin: 0px ; margin-left: 4px">
                                     <u>
-                                        + getBalance(): Double
+                                        + setInterestRate(double): void
+                                    </u>
+                                </p>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    <u>
+                                        + getInterestRare(): double
                                     </u>
                                 </p>
                             </div>
