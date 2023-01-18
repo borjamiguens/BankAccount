@@ -2,4 +2,4 @@
 
 
 
-![Alt](E:\contornos desenvolvemento\bankAccount\Diagramas\DiagBankAccount.drawio.svg)
+![Alt](E:\contornos desenvolvemento\bankAccount\Diagramas\DiagBankAccount.drawio.SVG)
